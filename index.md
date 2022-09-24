@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Kemampuan Literasi, Numerasi, dan Berfikir Saintik 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Esai Argumentatif](/pdf/Annotated Bibliography - Adinda Tsabita Salma.pdf)
+<img src="images/annotated.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
@@ -17,7 +17,16 @@
 
 ---
 
-### Category Name 2
+### Data Analytics
+
+- [Initial Assesment](/pdf/initial assessment - adinda tsabita salma.pdf)
+- [Use Case](/pdf/Use case - Adinda Tsabita Salma.pdf)
+- [Project 3 Title](http://example.com/)
+- [Project 4 Title](http://example.com/)
+
+---
+
+### Category Name 3
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
