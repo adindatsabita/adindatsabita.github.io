@@ -4,7 +4,7 @@
 
 ### Kemampuan Literasi, Numerasi, dan Berfikir Saintik 
 
-[Esai Argumentatif](/pdf/Annotated Bibliography - Adinda Tsabita Salma.pdf)
+[Annotated Bibliography](/pdf/Annotated Bibliography - Adinda Tsabita Salma.pdf)
 <img src="images/annotated.png?raw=true"/>
 
 ---
